@@ -337,14 +337,6 @@ Cela nous motive énormément et aide d'autres développeurs à découvrir l'out
 
 ---
 
-### 🎉 Offre de Lancement
-
-**Installation gratuite + Configuration personnalisée** pour les 100 premières équipes !
-
-👉 **[Rejoignez le Discord](https://discord.gg/3vJhx9XKEj)** et mentionnez le code **EARLYBIRD2025**
-
----
-
 </div>
 
 ## 🔑 Mots-clés SEO

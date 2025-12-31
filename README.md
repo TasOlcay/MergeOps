@@ -4,7 +4,7 @@
 
 ### Transformez la gestion de vos Pull Requests en une expérience Discord fluide et automatisée
 
-![MergeOps Banner]([web/public/brand/logo.png](https://github.com/TasOlcay/MergeOps/blob/main/web/public/brand/logo.png))
+![MergeOps Banner](https://raw.githubusercontent.com/TasOlcay/MergeOps/refs/heads/main/web/public/brand/logo.png)
 
 [![Ajouter à Discord](https://img.shields.io/badge/Ajouter%20%C3%A0-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3vJhx9XKEj)
 [![Site Web](https://img.shields.io/badge/Site-mergeops.dev-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mergeops.dev)

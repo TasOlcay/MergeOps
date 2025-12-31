@@ -120,7 +120,7 @@ C'est tout ! Vos Pull Requests créent maintenant automatiquement des threads Di
 
 ### 🎁 Plan GRATUIT
 
-**Parfait pour démarrer**
+**Free Core**
 
 <div align="center">
 
@@ -130,13 +130,11 @@ C'est tout ! Vos Pull Requests créent maintenant automatiquement des threads Di
 </div>
 
 #### ✅ Inclus :
-- ✨ **50 PRs/mois**
-- 🎮 War Rooms automatiques
-- ⚡ Notifications SLA
-- 🎛️ Boutons interactifs
-- 📊 Dashboard basique
-- 🔔 Digest quotidien
-- 💬 Support communautaire
+- ♾️ **War Rooms PR Illimitées**
+- 🎮 Commandes Bot de Base
+- 📊 Dashboard Standard
+- 🎛️ Interface Composants Discord
+- 💬 Support Communautaire
 - 🛠️ Open Source
 - 🚀 Auto-hébergeable
 
@@ -153,24 +151,23 @@ C'est tout ! Vos Pull Requests créent maintenant automatiquement des threads Di
 
 ### 🚀 Plan PRO
 
-**Pour les équipes sérieuses**
+**Power Plan**
 
 <div align="center">
 
-# 29€
+# 4,99€
 **/ mois**
 
 </div>
 
 #### ⭐ Tout du plan gratuit, PLUS :
-- ♾️ **PRs illimitées**
-- 📈 Analytics avancées
-- 🏆 Classements détaillés
-- 📊 Rapports personnalisés
-- 🎯 Métriques par développeur
-- ⚡ Support prioritaire
-- 🔧 Intégrations custom
-- 📞 Onboarding personnalisé
+- � Digests PR Quotidiens (Matin)
+- ⚡ Alertes d'Auto-Escalade SLA
+- 📊 Analyses d'Équipe Avancées
+- � Gestion Multi-Serveur
+- 💼 Support Développeur Prioritaire
+- � Configurations SLA personnalisées
+- 🏆 Métriques de performance détaillées
 
 <div align="center">
 
@@ -188,18 +185,18 @@ C'est tout ! Vos Pull Requests créent maintenant automatiquement des threads Di
 
 | Situation | Recommandation |
 |-----------|----------------|
-| **Petite équipe (1-5 dev)** avec <50 PRs/mois | ✅ Plan **GRATUIT** suffit largement |
-| **Équipe moyenne (5-15 dev)** avec volume régulier | 🚀 Plan **PRO** pour analytics avancées |
-| **Grande équipe (15+ dev)** avec fort volume | 🚀 Plan **PRO** indispensable |
-| **Projet Open Source** communautaire | ✅ Plan **GRATUIT** + auto-hébergement |
-| **Entreprise** avec besoins custom | 💼 **Contactez-nous** pour Enterprise |
+| **Projet personnel** ou petit repo | ✅ Plan **FREE CORE** suffit largement |
+| **Équipe avec plusieurs repos** | 🚀 Plan **POWER** pour multi-serveur |
+| **Équipe avec besoins avancés** (digest, escalade) | 🚀 Plan **POWER** recommandé |
+| **Projet Open Source** communautaire | ✅ Plan **FREE CORE** + auto-hébergement |
+| **Entreprise** avec besoins custom | 💼 **Contactez-nous** pour solutions sur mesure |
 
-### 🎯 ROI Instantané
+### 🎯 ROI Exceptionnel
 
-Le plan Pro à **29€/mois** permet d'économiser :
-- ⏱️ **20+ heures/mois** de temps d'équipe
-- 💰 **~1000€/mois** en productivité (basé sur taux horaire moyen)
-- 🚀 **ROI de 3400%** pour une équipe de 10 développeurs
+Le plan Pro à **seulement 4,99€/mois** permet d'économiser :
+- ⏱️ **10+ heures/mois** de temps d'équipe
+- 💰 **~500€/mois** en productivité (basé sur taux horaire moyen)
+- 🚀 **ROI de +10000%** - Meilleur rapport qualité/prix du marché !
 
 ---
 
@@ -221,26 +218,26 @@ Le plan Pro à **29€/mois** permet d'économiser :
 
 ### 🆚 Comparaison avec les Alternatives
 
-| Fonctionnalité | MergeOps Free | MergeOps Pro | Autres Outils |
-|----------------|---------------|--------------|---------------|
-| War Rooms Auto | ✅ | ✅ | ✅ |
-| SLA Configurables | ✅ | ✅ | ✅ |
-| Dashboard Analytics | Basique | Avancé | ✅ |
-| Unlimited PRs | ❌ (50/mois) | ✅ | Variable |
-| Advanced Analytics | ❌ | ✅ | ✅ |
-| Priority Support | ❌ | ✅ | ✅ |
-| Custom Integrations | ❌ | ✅ | Parfois |
+| Fonctionnalité | Free Core | Power Plan | Autres Outils |
+|----------------|-----------|------------|---------------|
+| PR War Rooms | ♾️ Illimitées | ♾️ Illimitées | Variable |
+| Dashboard Web | Standard | Avancé | ✅ |
+| Digest Quotidien | ❌ | ✅ | Parfois |
+| Auto-Escalade SLA | ❌ | ✅ | Parfois |
+| Analytics Avancées | ❌ | ✅ | ✅ |
+| Multi-Serveur | ❌ | ✅ | Variable |
+| Support Prioritaire | ❌ | ✅ | ✅ |
 | Open Source | ✅ | ✅ | ❌ |
 | Auto-hébergeable | ✅ | ✅ | ❌ |
-| **Prix/mois** | **🎉 GRATUIT** | **$29** | $$$$$ |
+| **Prix/mois** | **🎉 0€** | **4,99€** | 20-50€ |
 
 ### 🌟 Les Avantages MergeOps
 
-- 🎁 **Plan Gratuit Généreux** - Jusqu'à 50 PRs/mois sans carte bancaire
+- 🎁 **Free Core Généreux** - Aucune limitation de PRs
 - 🚀 **Installation en 3 minutes** - Pas de configuration complexe
 - 🛠️ **Open Source & Personnalisable** - Code source disponible
-- 📈 **Scalable** - Testé avec des milliers de PRs
-- 💼 **Plan Pro Abordable** - $29/mois pour fonctionnalités avancées
+- 📈 **Scalable** - Architecture microservices robuste
+- 💼 **Power Plan Ultra Abordable** - Seulement 4,99€/mois
 - 🤝 **Communauté active** - Support rapide sur Discord
 - 🔧 **Maintenance active** - Mises à jour régulières
 
@@ -303,8 +300,8 @@ Le plan Pro à **29€/mois** permet d'économiser :
 ### 📈 Adoption Croissante
 
 ![GitHub stars](https://img.shields.io/github/stars/TasOlcay/MergeOps?style=for-the-badge&logo=github)
-![Discord Members](https://img.shields.io/discord/YOUR_SERVER_ID?style=for-the-badge&logo=discord&label=Community)
-![PRs Managed](https://img.shields.io/badge/PRs%20Managed-10K%2B-66FCF1?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-66FCF1?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-57F287?style=for-the-badge)
 
 </div>
 

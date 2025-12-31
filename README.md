@@ -8,7 +8,7 @@
 
 [![Ajouter à Discord](https://img.shields.io/badge/Ajouter%20%C3%A0-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3vJhx9XKEj)
 [![Site Web](https://img.shields.io/badge/Site-mergeops.dev-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mergeops.dev)
-[![Gratuit](https://img.shields.io/badge/100%25-GRATUIT-66FCF1?style=for-the-badge)](https://mergeops.dev)
+[![Essai Gratuit](https://img.shields.io/badge/Essai-GRATUIT-66FCF1?style=for-the-badge)](https://mergeops.dev)
 
 ---
 
@@ -24,7 +24,7 @@ Vous en avez marre de **perdre des heures** à suivre vos Pull Requests sur GitH
 - 🚀 **+300% de productivité** pour votre équipe de développement
 - 🎯 **0 PR oubliée** avec les rappels intelligents
 - 📊 **Visibilité totale** sur l'avancement de vos reviews
-- 💰 **100% GRATUIT** - Open Source et sans limite
+- 💰 **Plan GRATUIT disponible** - Commencez sans carte bancaire
 
 ---
 
@@ -106,7 +106,104 @@ C'est tout ! Vos Pull Requests créent maintenant automatiquement des threads Di
 
 ---
 
-## 💡 Commandes Discord Essentielles
+## � Tarifs Transparents
+
+<div align="center">
+
+### Choisissez le plan adapté à vos besoins
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎁 Plan GRATUIT
+
+**Parfait pour démarrer**
+
+<div align="center">
+
+# 0€
+**/ mois - À vie**
+
+</div>
+
+#### ✅ Inclus :
+- ✨ **50 PRs/mois**
+- 🎮 War Rooms automatiques
+- ⚡ Notifications SLA
+- 🎛️ Boutons interactifs
+- 📊 Dashboard basique
+- 🔔 Digest quotidien
+- 💬 Support communautaire
+- 🛠️ Open Source
+- 🚀 Auto-hébergeable
+
+<div align="center">
+
+[![Commencer Gratuitement](https://img.shields.io/badge/COMMENCER-GRATUIT-66FCF1?style=for-the-badge)](https://discord.gg/3vJhx9XKEj)
+
+**Aucune carte bancaire requise**
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Plan PRO
+
+**Pour les équipes sérieuses**
+
+<div align="center">
+
+# 29€
+**/ mois**
+
+</div>
+
+#### ⭐ Tout du plan gratuit, PLUS :
+- ♾️ **PRs illimitées**
+- 📈 Analytics avancées
+- 🏆 Classements détaillés
+- 📊 Rapports personnalisés
+- 🎯 Métriques par développeur
+- ⚡ Support prioritaire
+- 🔧 Intégrations custom
+- 📞 Onboarding personnalisé
+
+<div align="center">
+
+[![Passer à Pro](https://img.shields.io/badge/PASSER%20%C3%80-PRO-5865F2?style=for-the-badge&logo=crown)](https://mergeops.dev/pricing)
+
+**Essai gratuit 14 jours**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+### 💡 Pourquoi passer à Pro ?
+
+| Situation | Recommandation |
+|-----------|----------------|
+| **Petite équipe (1-5 dev)** avec <50 PRs/mois | ✅ Plan **GRATUIT** suffit largement |
+| **Équipe moyenne (5-15 dev)** avec volume régulier | 🚀 Plan **PRO** pour analytics avancées |
+| **Grande équipe (15+ dev)** avec fort volume | 🚀 Plan **PRO** indispensable |
+| **Projet Open Source** communautaire | ✅ Plan **GRATUIT** + auto-hébergement |
+| **Entreprise** avec besoins custom | 💼 **Contactez-nous** pour Enterprise |
+
+### 🎯 ROI Instantané
+
+Le plan Pro à **29€/mois** permet d'économiser :
+- ⏱️ **20+ heures/mois** de temps d'équipe
+- 💰 **~1000€/mois** en productivité (basé sur taux horaire moyen)
+- 🚀 **ROI de 3400%** pour une équipe de 10 développeurs
+
+---
+
+## �💡 Commandes Discord Essentielles
 
 | Commande | Description | Exemple |
 |----------|-------------|---------|
@@ -124,22 +221,26 @@ C'est tout ! Vos Pull Requests créent maintenant automatiquement des threads Di
 
 ### 🆚 Comparaison avec les Alternatives
 
-| Fonctionnalité | MergeOps | BotsBasiQues | Outils Payants |
-|----------------|----------|---------------|----------------|
-| War Rooms Auto | ✅ | ❌ | ✅ |
-| SLA Configurables | ✅ | ❌ | ✅ |
-| Dashboard Analytics | ✅ | ❌ | ✅ |
-| Open Source | ✅ | Parfois | ❌ |
-| Auto-hébergeable | ✅ | ❌ | ❌ |
-| **Prix** | **🎉 GRATUIT** | Gratuit | $$$$ |
-| Support Communautaire | ✅ | ❌ | ✅ |
+| Fonctionnalité | MergeOps Free | MergeOps Pro | Autres Outils |
+|----------------|---------------|--------------|---------------|
+| War Rooms Auto | ✅ | ✅ | ✅ |
+| SLA Configurables | ✅ | ✅ | ✅ |
+| Dashboard Analytics | Basique | Avancé | ✅ |
+| Unlimited PRs | ❌ (50/mois) | ✅ | Variable |
+| Advanced Analytics | ❌ | ✅ | ✅ |
+| Priority Support | ❌ | ✅ | ✅ |
+| Custom Integrations | ❌ | ✅ | Parfois |
+| Open Source | ✅ | ✅ | ❌ |
+| Auto-hébergeable | ✅ | ✅ | ❌ |
+| **Prix/mois** | **🎉 GRATUIT** | **$29** | $$$$$ |
 
 ### 🌟 Les Avantages MergeOps
 
-- 🎁 **100% Gratuit & Open Source** - Aucun coût caché, jamais
+- 🎁 **Plan Gratuit Généreux** - Jusqu'à 50 PRs/mois sans carte bancaire
 - 🚀 **Installation en 3 minutes** - Pas de configuration complexe
-- 🛠️ **Personnalisable à l'infini** - Code source disponible
+- 🛠️ **Open Source & Personnalisable** - Code source disponible
 - 📈 **Scalable** - Testé avec des milliers de PRs
+- 💼 **Plan Pro Abordable** - $29/mois pour fonctionnalités avancées
 - 🤝 **Communauté active** - Support rapide sur Discord
 - 🔧 **Maintenance active** - Mises à jour régulières
 
@@ -201,7 +302,7 @@ C'est tout ! Vos Pull Requests créent maintenant automatiquement des threads Di
 
 ### 📈 Adoption Croissante
 
-![GitHub stars](https://img.shields.io/github/stars/mergeops/mergeops?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/TasOlcay/MergeOps?style=for-the-badge&logo=github)
 ![Discord Members](https://img.shields.io/discord/YOUR_SERVER_ID?style=for-the-badge&logo=discord&label=Community)
 ![PRs Managed](https://img.shields.io/badge/PRs%20Managed-10K%2B-66FCF1?style=for-the-badge)
 
@@ -221,7 +322,7 @@ C'est tout ! Vos Pull Requests créent maintenant automatiquement des threads Di
 ### 💬 Support Actif
 
 - 💬 **[Discord Community](https://discord.gg/3vJhx9XKEj)** - Support en temps réel
-- 🐛 **[GitHub Issues](https://github.com/mergeops/mergeops/issues)** - Bugs et features
+- 🐛 **[GitHub Issues](https://github.com/TasOlcay/MergeOps/issues)** - Bugs et features
 - 📧 **[Email Support](mailto:support@mergeops.dev)** - Assistance par email
 - 🎯 **[Roadmap Publique](https://mergeops.dev/roadmap)** - Futures fonctionnalités
 
@@ -237,7 +338,7 @@ C'est tout ! Vos Pull Requests créent maintenant automatiquement des threads Di
 
 [![Visiter le Site Web](https://img.shields.io/badge/SITE%20WEB-mergeops.dev-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000)](https://mergeops.dev)
 
-[![Voir sur GitHub](https://img.shields.io/badge/GITHUB-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mergeops/mergeops)
+[![Voir sur GitHub](https://img.shields.io/badge/GITHUB-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TasOlcay/MergeOps)
 
 ---
 
@@ -277,7 +378,7 @@ Cela nous motive énormément et aide d'autres développeurs à découvrir l'out
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3vJhx9XKEj)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mergeops)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mergeops)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TasOlcay/MergeOps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/mergeops)
 
 </div>

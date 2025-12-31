@@ -171,7 +171,7 @@ C'est tout ! Vos Pull Requests créent maintenant automatiquement des threads Di
 
 <div align="center">
 
-[![Passer à Pro](https://img.shields.io/badge/PASSER%20%C3%80-PRO-5865F2?style=for-the-badge&logo=crown)](https://mergeops.dev/pricing)
+[![Passer à Pro](https://img.shields.io/badge/PASSER%20%C3%80-PRO-5865F2?style=for-the-badge&logo=crown)](https://mergeops.dev/#pricing)
 
 **Essai gratuit 14 jours**
 
